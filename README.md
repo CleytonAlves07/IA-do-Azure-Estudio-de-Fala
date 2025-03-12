@@ -1,2 +1,3 @@
-# IA-do-Azure---Est-dio-de-Fala
+IA-do-Azure-Estudio-de-Fala
+
 Repositório de teste do estúdio de fala do IA do Azure
